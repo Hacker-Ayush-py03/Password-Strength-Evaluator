@@ -22,16 +22,16 @@ Before running the application, ensure you have:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/password-strength-checker.git
+   git clone https://github.com/username/Password-Strength-Evaluator.git
 ## Navigate to The Project Directory
    
-    cd password-strength-checker.py
+    cd Password-Strength-Evaluator.py
 
 ## How To Run
 1.Open  a terminal or command promt.
 2.Run the script.
     
-    python3 password_strength_checker.py     
+    python3 Password-Strength-Evaluator.py     
 3.The GUI will open ,and you start testing your passwords. 
     
 ## Code Overview
