@@ -31,7 +31,7 @@ Before running the application, ensure you have:
 1.Open  a terminal or command promt.
 2.Run the script.
     
-    python password_strength_checker.py     
+    python3 password_strength_checker.py     
 3.The GUI will open ,and you start testing your passwords. 
     
 ## Code Overview
