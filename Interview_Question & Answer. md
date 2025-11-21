@@ -1,0 +1,101 @@
+# Interview Questions – Detailed Answers
+
+## 1. What makes a password strong?
+
+A strong password is designed to resist automated and manual guessing attempts. Key factors include:
+
+- **Length:** Minimum 12–16 characters to increase the brute-force search space.
+- **Complexity:** Combination of uppercase, lowercase, numbers, and special symbols.
+- **Unpredictability:** No dictionary words, patterns, birthdays, or personal info.
+- **Uniqueness:** Never reuse the same password across multiple accounts.
+
+A strong password is long, random, and unique.
+
+---
+
+## 2. What are common password attacks?
+
+Common attack methods include:
+
+- **Brute-Force Attack:** Tries all possible combinations until it finds the correct one.
+- **Dictionary Attack:** Uses a wordlist of common or leaked passwords.
+- **Credential Stuffing:** Uses previously breached username/password pairs on other sites.
+- **Phishing:** Tricks users into revealing their passwords.
+- **Keylogging/Malware:** Steals keystrokes or stored passwords.
+- **Man-in-the-Middle (MitM):** Intercepts credentials over insecure networks.
+
+---
+
+## 3. Why is password length important?
+
+Password length increases the number of possible combinations exponentially.  
+Longer passwords:
+
+- Are significantly harder to brute-force.
+- Offer better protection even without heavy complexity.
+- Reduce guessability and resist automated attacks.
+
+Even a simple but long password can outperform a short complex one.
+
+---
+
+## 4. What is a dictionary attack?
+
+A dictionary attack is when an attacker uses a predefined list of common words, leaked passwords, or predictable patterns to guess a password.  
+It is faster than brute-force because it targets likely passwords rather than random combinations.
+
+---
+
+## 5. What is multi-factor authentication?
+
+Multi-Factor Authentication (MFA) requires users to verify their identity using **two or more** authentication factors:
+
+1. **Something you know:** Password or PIN  
+2. **Something you have:** Phone, authenticator app, hardware key  
+3. **Something you are:** Fingerprint, face recognition, biometrics  
+
+MFA significantly reduces account compromise even if the password is leaked.
+
+---
+
+## 6. How do password managers help?
+
+Password managers improve security by:
+
+- Generating strong, unique, and random passwords.
+- Storing passwords securely in encrypted vaults.
+- Auto-filling credentials to avoid phishing.
+- Eliminating password reuse.
+- Syncing passwords across devices safely.
+
+They reduce human error and simplify password management.
+
+---
+
+## 7. What are passphrases?
+
+A passphrase is a long sequence of random or meaningful words, such as:  
+`correct-horse-battery-staple`
+
+Benefits:
+
+- Much longer than typical passwords.
+- Easier to remember.
+- High entropy, making them very hard to crack.
+
+Passphrases are strong because length > complexity.
+
+---
+
+## 8. What are common mistakes in password creation?
+
+Common mistakes include:
+
+- Using short or simple passwords.
+- Using dictionary words or predictable patterns.
+- Reusing the same password on multiple platforms.
+- Adding obvious substitutions like `p@ssw0rd`.
+- Using personal info: name, birthday, phone number.
+- Using sequential characters like `123456` or `abcdef`.
+
+Avoiding these mistakes greatly increases account security.
