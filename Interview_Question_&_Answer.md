@@ -1,4 +1,4 @@
-#Interview Questions – Detailed Answers
+# Interview Questions – Detailed Answers
 
 ## 1. What makes a password strong?
 
